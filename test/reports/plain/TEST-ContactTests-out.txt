@@ -1,0 +1,3 @@
+--Output from testTaggable--
+[boss, interest-in-linux, interest-in-java]
+[Contact : 1]

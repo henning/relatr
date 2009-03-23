@@ -1,0 +1,13 @@
+Simple contact manager with tagging and search functionality.
+
+TODO:
+
+* show email and tags in details view
+* show email in list view, hide note and idin list view
+* link all columns form list view to edit view (skip details view for now)
+* show search results with name, firstname, company instead of id
+
+* show all contacts by given tag(s)
+
+* show a list of all tags, and enable editing those (e.g. correct typo's)
+

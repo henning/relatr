@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="xnote" name="ContactTests" tests="1" time="1.47" timestamp="2009-03-22T22:50:52">
+  <properties />
+  <testcase classname="ContactTests" name="testTaggable" time="1.428" />
+  <system-out><![CDATA[--Output from testTaggable--
+[boss, interest-in-linux, interest-in-java]
+[Contact : 1]
+]]></system-out>
+  <system-err><![CDATA[--Output from testTaggable--
+]]></system-err>
+</testsuite>
