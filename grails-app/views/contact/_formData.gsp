@@ -97,9 +97,7 @@
                   <label for="note">Note:</label>
               </td>
               <td valign="top" class="value ${hasErrors(bean:contactInstance,field:'note','errors')}">
-                  <textarea id="note" name="note" cols="80" rows="20">
-                  ${fieldValue(bean:contactInstance,field:'note')}
-                  </textarea>
+                  <textarea id="note" name="note" cols="80" rows="20">${fieldValue(bean:contactInstance,field:'note')}</textarea>
               </td>
           </tr>
 
