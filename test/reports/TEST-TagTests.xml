@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="xnote" name="TagTests" tests="1" time="0.376" timestamp="2009-03-22T22:50:38">
-  <properties />
-  <testcase classname="TagTests" name="testSomething" time="0.375" />
-  <system-out><![CDATA[--Output from testSomething--
-]]></system-out>
-  <system-err><![CDATA[--Output from testSomething--
-]]></system-err>
-</testsuite>

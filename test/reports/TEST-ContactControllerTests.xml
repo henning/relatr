@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="xnote" name="ContactControllerTests" tests="1" time="0.423" timestamp="2009-03-22T22:50:39">
-  <properties />
-  <testcase classname="ContactControllerTests" name="testSomething" time="0.423" />
-  <system-out><![CDATA[--Output from testSomething--
-]]></system-out>
-  <system-err><![CDATA[--Output from testSomething--
-]]></system-err>
-</testsuite>
