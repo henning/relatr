@@ -21,8 +21,8 @@
         <dependency org="hsqldb" name="hsqldb" rev="1.8.0.5" conf="runtime"/>
         <!--
         FIXME: must be fixed for ivy install!
-        <dependency org="mysql" name="mysql-connector-java" rev="5.1.6" conf="runtime"/>
         -->
+        <dependency org="mysql" name="mysql-connector-java" rev="5.1.6" conf="runtime"/>
         <!--
         <dependency org="postgresql" name="postgresql" rev="8.3-603.jdbc3" conf="runtime"/>
         -->
