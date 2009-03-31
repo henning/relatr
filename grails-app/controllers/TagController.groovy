@@ -1,4 +1,4 @@
 class TagController {
 
-    def scaffold = Tag
+    def scaffold = org.grails.taggable.Tag
 }
