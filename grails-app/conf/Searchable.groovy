@@ -166,7 +166,9 @@ environments {
             // FIXME: for better performance on a high load production system
             // (and for not having to build the index on each load),
             // this would be set to some permanent location
+           
             compassConnection = "ram://test-index"
+
             /*
             compassConnection = new File(
                 "/tmp/grails/projects/${appName}/searchable-index/${grailsEnv}"
